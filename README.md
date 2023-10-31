@@ -1,8 +1,4 @@
-# Nerdle Solver - AP CS A Final Project
-final-project-choi-ishdafish24 created by GitHub Classroom
-
-
-## Objective
+## Description
 The program automates solving Nerdle (https://nerdlegame.com), a spinoff of internet sensation Wordle. <br />
 
 
